@@ -1,0 +1,75 @@
+[
+  {
+    "address": "588 Minna St #306, San Francisco, CA 94103",
+    "price": "$550,000",
+    "bedrooms": "1 bd",
+    "bathrooms": "1 ba",
+    "sqft": "690 sqft",
+    "type": "Condo for sale"
+  },
+  {
+    "address": "815 Tennessee St UNIT 504, San Francisco, CA 94107",
+    "price": "$1,195,000",
+    "bedrooms": "2 bds",
+    "bathrooms": "2 ba",
+    "sqft": "-- sqft",
+    "type": ""
+  },
+  {
+    "address": "1438 Green St UNIT 2B, San Francisco, CA 94109",
+    "price": "$995,000",
+    "bedrooms": "1 bd",
+    "bathrooms": "1 ba",
+    "sqft": "974 sqft",
+    "type": "Condo for sale"
+  },
+  {
+    "address": "1292 Treat Ave, San Francisco, CA 94110",
+    "price": "$775,000",
+    "bedrooms": "2 bds",
+    "bathrooms": "1 ba",
+    "sqft": "1,010 sqft",
+    "type": "House for sale"
+  },
+  {
+    "address": "455 27th Ave, San Francisco, CA 94121",
+    "price": "$1,375,000",
+    "bedrooms": "2 bds",
+    "bathrooms": "1 ba",
+    "sqft": "1,040 sqft",
+    "type": "House for sale"
+  },
+  {
+    "address": "2 Mint Plz SUITE 704, San Francisco, CA 94103",
+    "price": "$800,000",
+    "bedrooms": "1 bd",
+    "bathrooms": "1 ba",
+    "sqft": "1,092 sqft",
+    "type": "Condo for sale"
+  },
+  {
+    "address": "558 Mississippi St, San Francisco, CA 94107",
+    "price": "$699,000",
+    "bedrooms": "1 bd",
+    "bathrooms": "1 ba",
+    "sqft": "505 sqft",
+    "type": "House for sale"
+  },
+  {
+    "address": "1739 19th Ave, San Francisco, CA 94122",
+    "price": "$475,791",
+    "bedrooms": "2 bds",
+    "bathrooms": "2 ba",
+    "sqft": "1,780 sqft",
+    "type": "Townhouse for sale"
+  },
+  {
+    "address": "1725 Quesada Ave, San Francisco, CA 94124",
+    "price": "$600,000",
+    "bedrooms": "3 bds",
+    "bathrooms": "2 ba",
+    "sqft": "1,011 sqft",
+    "type": "Condo for sale"
+  }
+]
+[{"address": "588 Minna St #306, San Francisco, CA 94103", "price": "$550,000", "bedrooms": "1 bd", "bathrooms": "1 ba", "sqft": "690 sqft", "type": "Condo for sale"}, {"address": "815 Tennessee St UNIT 504, San Francisco, CA 94107", "price": "$1,195,000", "bedrooms": "2 bds", "bathrooms": "2 ba", "sqft": "-- sqft", "type": ""}, {"address": "1438 Green St UNIT 2B, San Francisco, CA 94109", "price": "$995,000", "bedrooms": "1 bd", "bathrooms": "1 ba", "sqft": "974 sqft", "type": "Condo for sale"}, {"address": "1292 Treat Ave, San Francisco, CA 94110", "price": "$775,000", "bedrooms": "2 bds", "bathrooms": "1 ba", "sqft": "1,010 sqft", "type": "House for sale"}, {"address": "455 27th Ave, San Francisco, CA 94121", "price": "$1,375,000", "bedrooms": "2 bds", "bathrooms": "1 ba", "sqft": "1,040 sqft", "type": "House for sale"}, {"address": "2 Mint Plz SUITE 704, San Francisco, CA 94103", "price": "$800,000", "bedrooms": "1 bd", "bathrooms": "1 ba", "sqft": "1,092 sqft", "type": "Condo for sale"}, {"address": "558 Mississippi St, San Francisco, CA 94107", "price": "$699,000", "bedrooms": "1 bd", "bathrooms": "1 ba", "sqft": "505 sqft", "type": "House for sale"}, {"address": "1739 19th Ave, San Francisco, CA 94122", "price": "$475,791", "bedrooms": "2 bds", "bathrooms": "2 ba", "sqft": "1,780 sqft", "type": "Townhouse for sale"}, {"address": "1725 Quesada Ave, San Francisco, CA 94124", "price": "$600,000", "bedrooms": "3 bds", "bathrooms": "2 ba", "sqft": "1,011 sqft", "type": "Condo for sale"}]
