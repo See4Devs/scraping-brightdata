@@ -1,4 +1,4 @@
-# Scrapping a website with Python and Brightdata
+# Scraping a website with Python and Brightdata
 
 This is a sample repository on how to scrape data from a website by using an open source library or by using brightdata
 
